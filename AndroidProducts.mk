@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_nicky.mk
+    $(LOCAL_DIR)/twrp_rmx1921.mk
